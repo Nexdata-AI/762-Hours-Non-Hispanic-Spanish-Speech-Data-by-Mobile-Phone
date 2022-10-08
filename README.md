@@ -1,8 +1,10 @@
 # 762-Hours-Non-Hispanic-Spanish-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/970
+
 
 ## Description
 1,630 non-Spanish nationality native Spanish speakers such as Mexicans and Colombians participated in the recording with authentic accent. The recorded script is designed by linguists and cover a wide range of topics including generic, interactive, in-vehicle and home. The text is manually proofread with high accuracy. It matches with mainstream Android and Apple system phones.
+
+For more details, please refer to the link: https://bit.ly/3xUqlX3
 
 ## Format
 Mobile phone, 16kHz, 16bit, uncompressed wav, Mono channel
@@ -21,3 +23,6 @@ iPhone, Android mobile phone
 
 ## Application scene
 speech recognition; voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
