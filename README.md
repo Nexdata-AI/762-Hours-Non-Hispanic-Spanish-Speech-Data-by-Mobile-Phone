@@ -4,7 +4,7 @@
 ## Description
 1,630 non-Spanish nationality native Spanish speakers such as Mexicans and Colombians participated in the recording with authentic accent. The recorded script is designed by linguists and cover a wide range of topics including generic, interactive, in-vehicle and home. The text is manually proofread with high accuracy. It matches with mainstream Android and Apple system phones.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/970?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/970?source=Github
 
 ## Format
 Mobile phone, 16kHz, 16bit, uncompressed wav, Mono channel
